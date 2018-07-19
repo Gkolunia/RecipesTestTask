@@ -1,0 +1,6 @@
+framework module Pods_RecipesTestTask {
+  umbrella header "Pods-RecipesTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

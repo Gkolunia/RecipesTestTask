@@ -1,0 +1,12 @@
+PODS:
+  - Gloss (1.2.1)
+
+DEPENDENCIES:
+  - Gloss
+
+SPEC CHECKSUMS:
+  Gloss: 9ab33b8ede01e4232571d43a6bf9259b85d1de69
+
+PODFILE CHECKSUM: 60d1df936cf5feedfbad9e203c7c87b1dda4608d
+
+COCOAPODS: 1.2.0
